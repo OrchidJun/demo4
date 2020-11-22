@@ -1,0 +1,30 @@
+*{
+	margin: 0 auto;
+	padding:0 auto;
+	list-style-type: none;
+	text-decoration: none;
+}
+::selection{
+	background-color: green;
+	color: white;
+}
+.w{
+		max-width: 1200px;
+		margin:0 auto;
+		padding-left: 1%;
+		/*overflow: hidden;*/
+	}
+.xiaow{
+	max-width:990px;
+	min-width: 750px;
+	margin:0 auto;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.clear{
+	clear: both;
+}
